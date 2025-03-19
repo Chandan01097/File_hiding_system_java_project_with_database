@@ -39,11 +39,6 @@ The **File Hiding System** is a Java-based application designed to help users se
 
 ---
 
-## 📷 **Screenshots** (optional but highly recommended)  
-*(You can drop in a few images of the UI, OTP email sample, or the file hiding confirmation screens here.)*
-
----
-
 ## 📦 **How to Run**
 
 1. Clone the repository:  
