@@ -5,7 +5,6 @@
 ## 📝 **Project Overview**
 
 The **File Hiding System** is a Java-based application designed to help users securely hide and unhide files on their local system. In addition to file concealment, the system incorporates **authentication via email verification**, ensuring that only authorized users can access or manage hidden files. The project leverages **Java Mail API** to send OTPs (One-Time Passwords) for secure verification.
-
 ---
 
 ## 🚀 **Features**
