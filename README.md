@@ -4,7 +4,7 @@
 
 ## 📝 **Project Overview** Introducing the File Hiding System — your sleek, Java-powered digital vault for keeping files under wraps and out of sight! This isn’t just any file concealment tool. It’s built for privacy warriors who mean business.
 
-Here’s the real kicker: it comes with email-based OTP authentication, so only you (yes, you) can access or manage your hidden files. No sneaky business here.
+## Here’s the real kicker: it comes with email-based OTP authentication, so only you (yes, you) can access or manage your hidden files. No sneaky business here.
 
 Using the Java Mail API, the system fires off a secure One-Time Password straight to your inbox — no OTP, no access. It’s like two-factor authentication, but cooler.
 ---
