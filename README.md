@@ -1,5 +1,4 @@
 #
---
 # 📁 File Hiding System
 
 ## 📝 **Project Overview** Introducing the File Hiding System — your sleek, Java-powered digital vault for keeping files under wraps and out of sight! This isn’t just any file concealment tool. It’s built for privacy warriors who mean business.
